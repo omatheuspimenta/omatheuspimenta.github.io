@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calculo on Matheus Pimenta</title>
+    <link>https://omatheuspimenta.github.io/tags/calculo/</link>
+    <description>Recent content in calculo on Matheus Pimenta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://omatheuspimenta.github.io/tags/calculo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cálculo Integral</title>
+      <link>https://omatheuspimenta.github.io/post/calculointegral/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://omatheuspimenta.github.io/post/calculointegral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

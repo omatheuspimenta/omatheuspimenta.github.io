@@ -3,24 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>omatheuspimenta.github.io/</loc>
+    <loc>https://omatheuspimenta.github.io/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>omatheuspimenta.github.io/contact/</loc>
+    <loc>https://omatheuspimenta.github.io/tags/algebralinear/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omatheuspimenta.github.io/calculo1/</loc>
+    <loc>https://omatheuspimenta.github.io/tags/calculo/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omatheuspimenta.github.io/disciplinas/</loc>
+    <loc>https://omatheuspimenta.github.io/tags/calculo1/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omatheuspimenta.github.io/about/</loc>
+    <loc>https://omatheuspimenta.github.io/post/calculo/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/post/calculointegral/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/discreta/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/estatistica/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/ga/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/post/geometriaanalitica/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/geometriaanalitica/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/integral/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/post/discreta/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/post/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/probabilidade/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/post/probestatistica/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/utfpr/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://omatheuspimenta.github.io/tags/index/</loc>
   </url>
   
 </urlset>

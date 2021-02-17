@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calculo1 on Matheus Pimenta</title>
+    <link>https://omatheuspimenta.github.io/tags/calculo1/</link>
+    <description>Recent content in calculo1 on Matheus Pimenta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://omatheuspimenta.github.io/tags/calculo1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cálculo Diferencial e Integral 1</title>
+      <link>https://omatheuspimenta.github.io/post/calculo/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://omatheuspimenta.github.io/post/calculo/</guid>
+      <description>Ementa Conjuntos numéricos.
+Funções reais de variável real.
+Limites e continuidade.</description>
+    </item>
+    
+  </channel>
+</rss>
